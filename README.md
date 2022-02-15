@@ -1,1 +1,1 @@
-# pychamdashboard
+# sales-dashboard
